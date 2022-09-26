@@ -1,2 +1,1 @@
-# PythonCodes
-python codes, just to practice
+HERE IN THIS REPOSITORY I'LL JUST PUT SOME PYTHON CODES
