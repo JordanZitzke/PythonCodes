@@ -1,4 +1,4 @@
-# Formatação de strings
+# Formatação de strings f-strings
 
 nome = 'Jordan Pinho'
 altura = 1.73
